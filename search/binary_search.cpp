@@ -1,7 +1,6 @@
 // find element x in sorted array, return index of x
 // time complexity: O(logN)
 
-// #include <bits/stdc++.h>
 #include <vector>    // std::vector
 #include <iostream>  // std::cout, std::endl
 
